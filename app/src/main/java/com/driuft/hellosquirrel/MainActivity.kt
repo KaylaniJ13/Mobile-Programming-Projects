@@ -30,13 +30,9 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun setupProfile() {
-        configureImage()
         configureName()
     }
 
-    private fun configureImage() {
-        profileImage.setImageDrawable(AppCompatResources.getDrawable(this, R.drawable.ic_launcher_foreground))
-    }
 
     private fun configureName() {
         profileName.text = getString(
