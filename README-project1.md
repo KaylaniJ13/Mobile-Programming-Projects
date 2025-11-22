@@ -17,7 +17,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://www.loom.com/share/c1a109545d404bcebf9a81793fe59034' title='Video Demo' width='' alt='Video Demo' />
+<img src='[https://www.loom.com/share/c1a109545d404bcebf9a81793fe59034](https://imgur.com/a/7bbW6pU)' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **Loom**
 
