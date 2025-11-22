@@ -17,9 +17,9 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='YOUR_GIF_LINK_HERE' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://www.loom.com/share/c1a109545d404bcebf9a81793fe59034' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **LiceCap**
+GIF created with **Loom**
 
 ## Notes
 
@@ -27,7 +27,7 @@ In this lab, I learned how to separate content from layout by using `strings.xml
 
 ## License
 
-Copyright **2025** **Aldo Socarras**
+Copyright **2025** **Kaylani James**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
